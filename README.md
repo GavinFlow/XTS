@@ -5,7 +5,7 @@ TezosLite is a distributed consensus platform with meta-consensus capability. Te
 not only comes to consensus about state, like BTC or ETH. It also comes to
 consensus about how the protocol and the nodes should adapt and upgrade.
 
-See https://www.tezoslite.com/ for more information about the project.
+See http://www.tezoslite.com/ for more information about the project.
 
 
 Build instructions
